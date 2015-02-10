@@ -5,7 +5,7 @@ ff0000	 //Directive
 808080	 //Register name
 808080	 //Other keywords
 919182	 //Dummy data name
-800000	 //Dummy code name
+625b47	 //Dummy code name
 625b47	 //Dummy unexplored name
 625b47	 //Hidden name
 919182	 //Library function name
@@ -29,7 +29,7 @@ ff8080	 //Code reference
 625b47	 //Data reference to tail
 800080	 //Automatic comment
 b95a59	 //Regular comment
-008000	 //Repeatable comment
+869226	 //Repeatable comment
 869226	 //Extra line
 919182	 //Collapsed line
 919182	 //Line prefix: library function
